@@ -1,1 +1,1 @@
--- Add a column to the todo table
+ALTER TABLE todo.todo ADD done BIT DEFAULT 'FALSE';
