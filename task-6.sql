@@ -1,1 +1,1 @@
--- Delete tasks from the todo table that are done already
+delete from todo.todo where done=1;
