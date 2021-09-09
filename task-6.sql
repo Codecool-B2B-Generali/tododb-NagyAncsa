@@ -1,0 +1,1 @@
+-- Delete tasks from the todo table that are done already

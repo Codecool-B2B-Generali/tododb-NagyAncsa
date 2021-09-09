@@ -1,0 +1,1 @@
+-- Create two tables, one to store the users and one for the todos
