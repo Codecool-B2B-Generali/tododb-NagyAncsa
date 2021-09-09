@@ -1,1 +1,1 @@
--- Query all tasks that are done
+select * from todo.todo where done=1;
